@@ -1,13 +1,13 @@
 
-title: My Resume # your title
+title: dongryun # your title
 url: 'http://junlulocky.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: 'https://github.com/dyjung123/dongryun' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-location: San Francisco , CA
+yourname: dongryun  ## put your name
+location: kyeong nam , korea
 
 
 ## Social Profiles
